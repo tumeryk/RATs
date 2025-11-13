@@ -7,4 +7,4 @@ Unregulated use of AI tools can lead to Data Loss, exposure of Personally Identi
 By integrating this list with DNS-based controls or the Tumeryk Chrome Extension, organizations can enforce safe access policies across their workforce. Combined with the Tumeryk AI Trust Score Platform, companies can further implement advanced AI policy enforcement, ensuring that only trusted and compliant AI services are used within the enterprise.
 
 The format is aligned tot he following
-  <SERVICE NAME> (TEXT), <SERVICE CATEGORY>, LINK (URL);
+  #<SERVICE NAME> (TEXT), <SERVICE CATEGORY>, LINK (URL);
