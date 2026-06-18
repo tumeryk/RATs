@@ -6,8 +6,19 @@ Unregulated use of AI tools can lead to Data Loss, exposure of Personally Identi
 
 By integrating this list with DNS-based controls or the Tumeryk Chrome Extension, organizations can enforce safe access policies across their workforce. Combined with the Tumeryk AI Trust Score Platform, companies can further implement advanced AI policy enforcement, ensuring that only trusted and compliant AI services are used within the enterprise.
 
-**The format is aligned to the following pattern (do not change):**
+## File
+
+`ai-tools.json` — curated enterprise platforms at the top (~108 entries), followed by the full bulk catalog (~19k `"AI Tool"` entries). Edit the JSON directly when updating the curated list.
+
+## JSON format (do not change field names)
+
+```json
+{
+  "service_name": "<SERVICE NAME>",
+  "service_category": "<SERVICE CATEGORY>",
+  "url": "<FULL URL>"
+}
 ```
-#<SERVICE NAME> (TEXT), <SERVICE CATEGORY>, LINK (URL);
-```
+
+Curated categories include: `General AI Assistant`, `AI Search Engine`, `AI Code Assistant`, `AI Character Chat`, `AI Companion`, `AI Image Generation`, `AI Video Generation`, `AI Voice & Audio`, `AI Productivity`, and others. Bulk catalog entries use `"AI Tool"`.
 
