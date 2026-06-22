@@ -1,18 +1,38 @@
 [
   {
-    "service_name": "Microsoft Copilot",
-    "service_category": "General AI Assistant",
-    "url": "https://copilot.microsoft.com"
+    "service_name": "Chai",
+    "service_category": "AI Character Chat",
+    "url": "https://chai.ml"
   },
   {
-    "service_name": "You.com",
-    "service_category": "AI Search Engine",
-    "url": "https://you.com"
+    "service_name": "Character AI",
+    "service_category": "AI Character Chat",
+    "url": "https://character.ai"
   },
   {
-    "service_name": "Pi AI",
-    "service_category": "Conversational AI Assistant",
-    "url": "https://pi.ai"
+    "service_name": "CrushOn AI",
+    "service_category": "AI Character Chat",
+    "url": "https://crushon.ai"
+  },
+  {
+    "service_name": "DreamGen",
+    "service_category": "AI Character Chat",
+    "url": "https://dreamgen.com"
+  },
+  {
+    "service_name": "Janitor AI",
+    "service_category": "AI Character Chat",
+    "url": "https://janitorai.com"
+  },
+  {
+    "service_name": "SpicyChat AI",
+    "service_category": "AI Character Chat",
+    "url": "https://spicychat.ai"
+  },
+  {
+    "service_name": "Talkie AI",
+    "service_category": "AI Character Chat",
+    "url": "https://talkie-ai.com"
   },
   {
     "service_name": "Groq Chat",
@@ -20,34 +40,44 @@
     "url": "https://chat.groq.com"
   },
   {
-    "service_name": "Jasper AI",
-    "service_category": "AI Content Writing",
-    "url": "https://www.jasper.ai"
+    "service_name": "Kuki AI",
+    "service_category": "AI Chatbot",
+    "url": "https://www.kuki.ai"
   },
   {
-    "service_name": "Writesonic",
-    "service_category": "AI Content Writing",
-    "url": "https://writesonic.com"
+    "service_name": "Chatfuel",
+    "service_category": "AI Chatbot Platform",
+    "url": "https://chatfuel.com"
   },
   {
-    "service_name": "Copy.ai",
-    "service_category": "AI Content Writing",
-    "url": "https://www.copy.ai"
+    "service_name": "Landbot",
+    "service_category": "AI Chatbot Platform",
+    "url": "https://landbot.io"
   },
   {
-    "service_name": "Rytr",
-    "service_category": "AI Content Writing",
-    "url": "https://rytr.me"
+    "service_name": "ManyChat",
+    "service_category": "AI Chatbot Platform",
+    "url": "https://manychat.com"
   },
   {
-    "service_name": "Sudowrite",
-    "service_category": "AI Creative Writing",
-    "url": "https://www.sudowrite.com"
-  },
-  {
-    "service_name": "GitHub Copilot",
+    "service_name": "Aider",
     "service_category": "AI Code Assistant",
-    "url": "https://github.com"
+    "url": "https://aider.chat"
+  },
+  {
+    "service_name": "Amazon Q Developer",
+    "service_category": "AI Code Assistant",
+    "url": "https://aws.amazon.com/q/developer"
+  },
+  {
+    "service_name": "Bolt.new",
+    "service_category": "AI Code Assistant",
+    "url": "https://bolt.new"
+  },
+  {
+    "service_name": "Cline",
+    "service_category": "AI Code Assistant",
+    "url": "https://cline.bot"
   },
   {
     "service_name": "Codeium",
@@ -55,9 +85,49 @@
     "url": "https://codeium.com"
   },
   {
+    "service_name": "Cursor",
+    "service_category": "AI Code Assistant",
+    "url": "https://cursor.com"
+  },
+  {
+    "service_name": "Devin",
+    "service_category": "AI Code Assistant",
+    "url": "https://devin.ai"
+  },
+  {
+    "service_name": "Gemini CLI",
+    "service_category": "AI Code Assistant",
+    "url": "https://ai.google.dev"
+  },
+  {
+    "service_name": "GitHub Copilot",
+    "service_category": "AI Code Assistant",
+    "url": "https://github.com"
+  },
+  {
+    "service_name": "JetBrains Junie",
+    "service_category": "AI Code Assistant",
+    "url": "https://www.jetbrains.com/junie"
+  },
+  {
+    "service_name": "Lovable",
+    "service_category": "AI Code Assistant",
+    "url": "https://lovable.dev"
+  },
+  {
+    "service_name": "OpenAI Codex",
+    "service_category": "AI Code Assistant",
+    "url": "https://openai.com/codex"
+  },
+  {
     "service_name": "Replit Ghostwriter",
     "service_category": "AI Code Assistant",
     "url": "https://replit.com"
+  },
+  {
+    "service_name": "Sourcegraph Cody",
+    "service_category": "AI Code Assistant",
+    "url": "https://sourcegraph.com"
   },
   {
     "service_name": "Tabnine",
@@ -65,9 +135,104 @@
     "url": "https://www.tabnine.com"
   },
   {
-    "service_name": "Intercom Fin",
-    "service_category": "AI Customer Support",
-    "url": "https://www.intercom.com"
+    "service_name": "v0",
+    "service_category": "AI Code Assistant",
+    "url": "https://v0.dev"
+  },
+  {
+    "service_name": "Windsurf",
+    "service_category": "AI Code Assistant",
+    "url": "https://windsurf.com"
+  },
+  {
+    "service_name": "Anima AI",
+    "service_category": "AI Companion",
+    "url": "https://anima.ai"
+  },
+  {
+    "service_name": "Candy AI",
+    "service_category": "AI Companion",
+    "url": "https://candy.ai"
+  },
+  {
+    "service_name": "Dippy AI",
+    "service_category": "AI Companion",
+    "url": "https://dippy.ai"
+  },
+  {
+    "service_name": "HoneyChat",
+    "service_category": "AI Companion",
+    "url": "https://honeychat.bot"
+  },
+  {
+    "service_name": "Nastia AI",
+    "service_category": "AI Companion",
+    "url": "https://nastia.ai"
+  },
+  {
+    "service_name": "Nomi.ai",
+    "service_category": "AI Companion",
+    "url": "https://nomi.ai"
+  },
+  {
+    "service_name": "OurDream AI",
+    "service_category": "AI Companion",
+    "url": "https://ourdream.ai"
+  },
+  {
+    "service_name": "Replika",
+    "service_category": "AI Companion",
+    "url": "https://replika.com"
+  },
+  {
+    "service_name": "Copy.ai",
+    "service_category": "AI Content Writing",
+    "url": "https://www.copy.ai"
+  },
+  {
+    "service_name": "Grammarly",
+    "service_category": "AI Content Writing",
+    "url": "https://www.grammarly.com"
+  },
+  {
+    "service_name": "Jasper AI",
+    "service_category": "AI Content Writing",
+    "url": "https://www.jasper.ai"
+  },
+  {
+    "service_name": "Notion AI",
+    "service_category": "AI Content Writing",
+    "url": "https://www.notion.so"
+  },
+  {
+    "service_name": "QuillBot",
+    "service_category": "AI Content Writing",
+    "url": "https://quillbot.com"
+  },
+  {
+    "service_name": "Rytr",
+    "service_category": "AI Content Writing",
+    "url": "https://rytr.me"
+  },
+  {
+    "service_name": "Wordtune",
+    "service_category": "AI Content Writing",
+    "url": "https://www.wordtune.com"
+  },
+  {
+    "service_name": "Writesonic",
+    "service_category": "AI Content Writing",
+    "url": "https://writesonic.com"
+  },
+  {
+    "service_name": "NovelAI",
+    "service_category": "AI Creative Writing",
+    "url": "https://novelai.net"
+  },
+  {
+    "service_name": "Sudowrite",
+    "service_category": "AI Creative Writing",
+    "url": "https://www.sudowrite.com"
   },
   {
     "service_name": "Drift",
@@ -80,39 +245,214 @@
     "url": "https://www.hubspot.com"
   },
   {
+    "service_name": "Intercom Fin",
+    "service_category": "AI Customer Support",
+    "url": "https://www.intercom.com"
+  },
+  {
     "service_name": "Tidio",
     "service_category": "AI Customer Support",
     "url": "https://www.tidio.com"
   },
   {
-    "service_name": "Chatfuel",
-    "service_category": "AI Chatbot Platform",
-    "url": "https://chatfuel.com"
+    "service_name": "Adobe Firefly",
+    "service_category": "AI Image Generation",
+    "url": "https://firefly.adobe.com"
   },
   {
-    "service_name": "Character AI",
-    "service_category": "AI Character Chat",
-    "url": "https://character.ai"
+    "service_name": "Canva AI",
+    "service_category": "AI Image Generation",
+    "url": "https://www.canva.com"
   },
   {
-    "service_name": "Replika",
-    "service_category": "AI Companion",
-    "url": "https://replika.com"
+    "service_name": "Flux",
+    "service_category": "AI Image Generation",
+    "url": "https://blackforestlabs.ai"
   },
   {
-    "service_name": "Anima AI",
-    "service_category": "AI Companion",
-    "url": "https://anima.ai"
+    "service_name": "Ideogram",
+    "service_category": "AI Image Generation",
+    "url": "https://ideogram.ai"
   },
   {
-    "service_name": "Kuki AI",
-    "service_category": "AI Chatbot",
-    "url": "https://www.kuki.ai"
+    "service_name": "Leonardo AI",
+    "service_category": "AI Image Generation",
+    "url": "https://leonardo.ai"
+  },
+  {
+    "service_name": "Midjourney",
+    "service_category": "AI Image Generation",
+    "url": "https://www.midjourney.com"
+  },
+  {
+    "service_name": "Recraft",
+    "service_category": "AI Image Generation",
+    "url": "https://www.recraft.ai"
+  },
+  {
+    "service_name": "Stability AI",
+    "service_category": "AI Image Generation",
+    "url": "https://stability.ai"
+  },
+  {
+    "service_name": "ClickUp AI",
+    "service_category": "AI Productivity",
+    "url": "https://clickup.com"
+  },
+  {
+    "service_name": "Fathom",
+    "service_category": "AI Productivity",
+    "url": "https://fathom.video"
+  },
+  {
+    "service_name": "Gamma",
+    "service_category": "AI Productivity",
+    "url": "https://gamma.app"
+  },
+  {
+    "service_name": "Otter.ai",
+    "service_category": "AI Productivity",
+    "url": "https://otter.ai"
+  },
+  {
+    "service_name": "Slack AI",
+    "service_category": "AI Productivity",
+    "url": "https://slack.com/features/ai"
+  },
+  {
+    "service_name": "Zapier AI",
+    "service_category": "AI Productivity",
+    "url": "https://zapier.com/ai"
   },
   {
     "service_name": "ChatFAI",
     "service_category": "AI Roleplay Chat",
     "url": "https://chatfai.com"
+  },
+  {
+    "service_name": "Tavern AI",
+    "service_category": "AI Roleplay Chat",
+    "url": "https://tavernai.net"
+  },
+  {
+    "service_name": "Andi Search",
+    "service_category": "AI Search Engine",
+    "url": "https://andisearch.com"
+  },
+  {
+    "service_name": "Arc Search",
+    "service_category": "AI Search Engine",
+    "url": "https://arc.net"
+  },
+  {
+    "service_name": "Brave Leo",
+    "service_category": "AI Search Engine",
+    "url": "https://brave.com/leo"
+  },
+  {
+    "service_name": "Consensus",
+    "service_category": "AI Search Engine",
+    "url": "https://consensus.app"
+  },
+  {
+    "service_name": "Elicit",
+    "service_category": "AI Search Engine",
+    "url": "https://elicit.com"
+  },
+  {
+    "service_name": "Felo",
+    "service_category": "AI Search Engine",
+    "url": "https://felo.ai"
+  },
+  {
+    "service_name": "Perplexity",
+    "service_category": "AI Search Engine",
+    "url": "https://www.perplexity.ai"
+  },
+  {
+    "service_name": "Phind",
+    "service_category": "AI Search Engine",
+    "url": "https://phind.com"
+  },
+  {
+    "service_name": "You.com",
+    "service_category": "AI Search Engine",
+    "url": "https://you.com"
+  },
+  {
+    "service_name": "Google Veo",
+    "service_category": "AI Video Generation",
+    "url": "https://deepmind.google/technologies/veo"
+  },
+  {
+    "service_name": "Hailuo AI",
+    "service_category": "AI Video Generation",
+    "url": "https://hailuoai.com"
+  },
+  {
+    "service_name": "HeyGen",
+    "service_category": "AI Video Generation",
+    "url": "https://www.heygen.com"
+  },
+  {
+    "service_name": "Kling AI",
+    "service_category": "AI Video Generation",
+    "url": "https://klingai.com"
+  },
+  {
+    "service_name": "Luma Dream Machine",
+    "service_category": "AI Video Generation",
+    "url": "https://lumalabs.ai"
+  },
+  {
+    "service_name": "Pika",
+    "service_category": "AI Video Generation",
+    "url": "https://pika.art"
+  },
+  {
+    "service_name": "Runway",
+    "service_category": "AI Video Generation",
+    "url": "https://runwayml.com"
+  },
+  {
+    "service_name": "Seedance",
+    "service_category": "AI Video Generation",
+    "url": "https://seedance.ai"
+  },
+  {
+    "service_name": "Descript",
+    "service_category": "AI Voice & Audio",
+    "url": "https://www.descript.com"
+  },
+  {
+    "service_name": "ElevenLabs",
+    "service_category": "AI Voice & Audio",
+    "url": "https://elevenlabs.io"
+  },
+  {
+    "service_name": "Murf AI",
+    "service_category": "AI Voice & Audio",
+    "url": "https://murf.ai"
+  },
+  {
+    "service_name": "PlayHT",
+    "service_category": "AI Voice & Audio",
+    "url": "https://play.ht"
+  },
+  {
+    "service_name": "Synthesia",
+    "service_category": "AI Voice & Audio",
+    "url": "https://www.synthesia.io"
+  },
+  {
+    "service_name": "Kindroid",
+    "service_category": "Conversational AI Assistant",
+    "url": "https://kindroid.ai"
+  },
+  {
+    "service_name": "Pi AI",
+    "service_category": "Conversational AI Assistant",
+    "url": "https://pi.ai"
   },
   {
     "service_name": "ChatGPT",
@@ -125,19 +465,79 @@
     "url": "https://claude.ai"
   },
   {
+    "service_name": "DeepSeek",
+    "service_category": "General AI Assistant",
+    "url": "https://chat.deepseek.com"
+  },
+  {
     "service_name": "Gemini",
     "service_category": "General AI Assistant",
     "url": "https://gemini.google.com"
   },
   {
-    "service_name": "Perplexity",
-    "service_category": "AI Search Engine",
-    "url": "https://www.perplexity.ai"
+    "service_name": "Grok",
+    "service_category": "General AI Assistant",
+    "url": "https://grok.com"
+  },
+  {
+    "service_name": "Hugging Face Chat",
+    "service_category": "General AI Assistant",
+    "url": "https://huggingface.co"
+  },
+  {
+    "service_name": "Kimi",
+    "service_category": "General AI Assistant",
+    "url": "https://kimi.com"
+  },
+  {
+    "service_name": "Manus",
+    "service_category": "General AI Assistant",
+    "url": "https://manus.im"
+  },
+  {
+    "service_name": "Meta AI",
+    "service_category": "General AI Assistant",
+    "url": "https://meta.ai"
   },
   {
     "service_name": "Microsoft 365 Copilot",
     "service_category": "General AI Assistant",
     "url": "https://m365.cloud.microsoft/chat"
+  },
+  {
+    "service_name": "Microsoft Copilot",
+    "service_category": "General AI Assistant",
+    "url": "https://copilot.microsoft.com"
+  },
+  {
+    "service_name": "Mistral Le Chat",
+    "service_category": "General AI Assistant",
+    "url": "https://chat.mistral.ai"
+  },
+  {
+    "service_name": "NotebookLM",
+    "service_category": "General AI Assistant",
+    "url": "https://notebooklm.google.com"
+  },
+  {
+    "service_name": "OpenRouter",
+    "service_category": "General AI Assistant",
+    "url": "https://openrouter.ai"
+  },
+  {
+    "service_name": "Poe",
+    "service_category": "General AI Assistant",
+    "url": "https://poe.com"
+  },
+  {
+    "service_name": "Qwen Chat",
+    "service_category": "General AI Assistant",
+    "url": "https://chat.qwen.ai"
+  },
+  {
+    "service_name": "Claude Code",
+    "service_category": "AI Code Assistant",
+    "url": "https://claude.ai/code"
   },
   {
     "service_name": "Scrip Ai",
